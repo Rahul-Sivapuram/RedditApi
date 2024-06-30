@@ -136,3 +136,10 @@ C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\obj\Deb
 C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\obj\Debug\net8.0\RedditApi.genruntimeconfig.cache
 C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\obj\Debug\net8.0\ref\RedditApi.dll
 C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\obj\Debug\net8.0\RedditApi.csproj.CopyComplete
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\angular.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\package-lock.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\package.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\tsconfig.app.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\tsconfig.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\bin\Debug\net8.0\redditclone\tsconfig.spec.json
+C:\Users\rahul.sivapuram\OneDrive - Technovert\Documents\rahul\RedditApi\obj\Debug\net8.0\RedditApi.sourcelink.json
